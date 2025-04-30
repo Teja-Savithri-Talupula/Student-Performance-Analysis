@@ -12,11 +12,13 @@ Created manually in Excel with the following columns:
 * Power BI
 * Attendence(%)
 SAVED AS : student_data.csv
+
 🛠️ Tools & Libraries Used
 * Python 3
 * Pandas
 * Matplotlib
 * Excel(for initial data entry)
+
 📊 Key Features
 * load and clean CSV data
 * Calculate average scores for each student
